@@ -1,0 +1,4 @@
+config:
+  pulumi:template: webapp-kubernetes-python
+  webapp-kubernetes-pythonffdfdsfdsfds:namespace: default
+  webapp-kubernetes-pythonffdfdsfdsfds:replicas: "1"
